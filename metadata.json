@@ -1,0 +1,6 @@
+{
+  "name": "ReviveOS",
+  "description": "ReviveOS automatically finds, prioritizes, and recovers revenue opportunities that existing tools miss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
